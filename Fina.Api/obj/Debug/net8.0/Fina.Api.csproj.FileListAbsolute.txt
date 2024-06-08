@@ -27,3 +27,4 @@ C:\dev\Fina\Fina.Api\obj\Debug\net8.0\refint\Fina.Api.dll
 C:\dev\Fina\Fina.Api\obj\Debug\net8.0\Fina.Api.pdb
 C:\dev\Fina\Fina.Api\obj\Debug\net8.0\Fina.Api.genruntimeconfig.cache
 C:\dev\Fina\Fina.Api\obj\Debug\net8.0\ref\Fina.Api.dll
+C:\dev\Fina\Fina.Api\obj\Debug\net8.0\Fina.Api.sourcelink.json

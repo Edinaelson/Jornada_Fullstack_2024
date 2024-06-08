@@ -3,7 +3,7 @@ using Fina.Core.Enums;
 
 namespace Fina.Core.Requests.Transactions;
 
-public class UpadateTransactionRequest : Request
+public class UpdateTransactionRequest : Request
 {
     public long Id { get; set; }
     

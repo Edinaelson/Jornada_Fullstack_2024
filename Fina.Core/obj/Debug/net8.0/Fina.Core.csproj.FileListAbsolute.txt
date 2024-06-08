@@ -9,3 +9,4 @@ C:\dev\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
 C:\dev\Fina\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
 C:\dev\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
 C:\dev\Fina\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
+C:\dev\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.sourcelink.json
